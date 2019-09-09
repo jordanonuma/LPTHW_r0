@@ -1,5 +1,6 @@
-print "Hello World!"
+# print "Hello World!"
 print "Hello Again"
+print 'Hello Again with single quotes'
 print "I like typing this."
 print "This is fun."
 print 'Yay! Printing.'
