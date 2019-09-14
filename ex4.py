@@ -1,8 +1,8 @@
 cars = 100
-space_in_a_car = 4.0
-drivers = 30
-passengers = 90
-cars_not_driven = cars - drivers
+space_in_a_car = 4.0 #probably an assumption of average, comfortable space for all 100 cars
+drivers = 30 #assuming 1 driver per car later below
+passengers = 90 #assuming not drivers
+cars_not_driven = cars - drivers #assumming all drivers are driving
 cars_driven = drivers
 carpool_capacity = cars_driven * space_in_a_car
 average_passengers_per_car = passengers / cars_driven
