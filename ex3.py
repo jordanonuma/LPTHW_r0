@@ -5,7 +5,7 @@ print "Roosters", 100 - 25 * 3 % 4 #guess: 100 - 75 % 4 = 100 - 3 = 97
 
 print "Now I will count the eggs:"
 
-print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6 #guess: 1 + 0 - 0.25 + 6 = 6.75
+print 3 + 2 + 1 - 5 + 4 % 2 - 1.0 / 4 + 6 #guess: 1 + 0 - 0.25 + 6 = 6.75
 
 print "Is it true that 3 + 2 < 5 - 7?"
 
