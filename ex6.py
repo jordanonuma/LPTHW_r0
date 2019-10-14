@@ -7,7 +7,7 @@ print x
 print y
 
 print "I said: %r." % x #nested string will put %r in single quotes.
-print "I also said: '%s'." % y
+print "I also said: '%s'." % y #nested string 
 
 hilarious = False
 joke_evaluation = "Isn't that joke so funny?! %r"
@@ -17,4 +17,4 @@ print joke_evaluation % hilarious #prints "Isn't that joke so funny? False"
 w = "This is the lefts side of..."
 e = "a string with a right side."
 
-print w + e
+print w + e #nested string
