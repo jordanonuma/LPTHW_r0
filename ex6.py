@@ -6,4 +6,5 @@ y = "Those who know %s and those who %s." % (binary, do_not)
 print x
 print y
 
-print "I said: %r." % x
+print "I said: %r." % x #nested string will put %r in single quotes.
+print "I also said: '%s'." % y
