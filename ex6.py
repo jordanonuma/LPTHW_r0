@@ -13,3 +13,8 @@ hilarious = False
 joke_evaluation = "Isn't that joke so funny?! %r"
 
 print joke_evaluation % hilarious #prints "Isn't that joke so funny? False"
+
+w = "This is the lefts side of..."
+e = "a string with a right side."
+
+print w + e
