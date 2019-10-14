@@ -8,3 +8,8 @@ print y
 
 print "I said: %r." % x #nested string will put %r in single quotes.
 print "I also said: '%s'." % y
+
+hilarious = False
+joke_evaluation = "Isn't that joke so funny?! %r"
+
+print joke_evaluation % hilarious #prints "Isn't that joke so funny? False"
