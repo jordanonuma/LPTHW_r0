@@ -4,3 +4,4 @@ days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJuly\nAug"
 
 print "Here are the days: ", days #Outputs: "Mon Tue Wed thu Fri Sat Sun"
+print "Here are the months: ", months
