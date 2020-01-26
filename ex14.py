@@ -14,4 +14,6 @@ lives = raw_input(prompt)
 print "What kind of computer do you have?"
 computer = raw_input(prompt)
 
-print ""
+print """
+Alright, so you said %r about liking me.
+""" % (likes)
