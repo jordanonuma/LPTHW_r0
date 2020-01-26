@@ -16,4 +16,6 @@ computer = raw_input(prompt)
 
 print """
 Alright, so you said %r about liking me.
-""" % (likes)
+You live in %r. Not sure where that is. Must be on the blockchain.
+And you have a %r computer.  m(&_&)m
+""" % (likes, lives, computer)
