@@ -14,8 +14,12 @@ lives = raw_input(prompt)
 print "What kind of computer do you have?"
 computer = raw_input(prompt)
 
+print "Do you like python?"
+python = raw_input(prompt)
+
 print """
 Alright, so you said %r about liking me.
 You live in %r. Not sure where that is. Must be on the blockchain.
 And you have a %r computer.  m(&_&)m
-""" % (likes, lives, computer)
+Python with a salad sounds like %r to you.
+""" % (likes, lives, computer, python)
