@@ -10,3 +10,6 @@ likes = raw_input(prompt)
 
 print "Where do you live %s?" % user_name
 lives = raw_input(prompt)
+
+print "What kind of computer do you have?"
+computer = raw_input(prompt)
