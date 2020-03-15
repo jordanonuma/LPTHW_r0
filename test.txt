@@ -1,1 +1,3 @@
-hi 1
+What's line 1 going to have.
+This could be the start of something great.
+And the end of the novel.
